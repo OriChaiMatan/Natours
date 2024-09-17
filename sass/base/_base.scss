@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    //this defines what 1rem is
+    font-size: 62.5%;
+    /* do it to give the user the option to change the font size and still set the difault to be 16px- full explaination in the video: Converting px to rem: An Effective Workflow */
+}
+
+body {
+    box-sizing: border-box;
+}
