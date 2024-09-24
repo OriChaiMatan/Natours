@@ -1,10 +1,13 @@
 # Natours SCSS Project
 Welcome to the Natours project! This project is focused on building a visually stunning and responsive website using pure HTML, CSS, and SCSS (Sass). It incorporates advanced CSS techniques and follows best practices in CSS architecture and responsive design.
 ## Table of Contents
+- [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Contributor](#contributor)
+## Demo
+Try it here: [Natours here!](https://orichaimatan.github.io/Natours/)
 ## Features
 - CSS Animations: Includes smooth transitions and keyframe animations to enhance the user experience.
 - 7-1 CSS Architecture with Sass: This project follows the 7-1 folder structure for maintainable and scalable CSS, making it easier to work with Sass and manage styles.
